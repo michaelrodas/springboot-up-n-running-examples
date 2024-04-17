@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/aircraft"
+  },
+  "response": {
+    "status": 200,
+    "body": "[{\"callsign\":\"SAL001\", \"reg\":\"N12345\", \"flightno\":\"SAL001\", \"type\":\"LJ\", \"altitude\":\"30000\", \"heading\":\"280\", \"speed\":\"440\",\n\"lat\":\"39.2979849\", \"lon\":\"-94.71921\"},{\"callsign\":\"SAL002\", \"reg\":\"N54321\", \"flightno\":\"SAL002\", \"type\":\"LJ\", \"altitude\":\"40000\", \"heading\":\"65\", \"speed\":\"440\",\n\"lat\":\"39.8560963\", \"lon\":\"-104.6759263\"},{\"callsign\":\"SAL002\", \"reg\":\"N54321\", \"flightno\":\"SAL002\", \"type\":\"LJ\", \"altitude\":\"40000\", \"heading\":\"65\", \"speed\":\"440\",\n\"lat\":\"39.8412964\", \"lon\":\"-105.0048267\"}]",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
